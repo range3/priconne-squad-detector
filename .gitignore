@@ -1,5 +1,6 @@
 *.png
 *.jpg
+build
 # Created by https://www.toptal.com/developers/gitignore/api/node,code,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,code,linux
 
